@@ -2,19 +2,19 @@
 um Jogo de Pedra, Papel, Tesoura, Largarto Spock implementado em C# seguindo boas práticas de programação
 
 
-##Quais boas práticas estamos falando?
+## Quais boas práticas estamos falando?
 
 Bom, eu usei nele principios de Coesão e Singleton e orientação a objetos.
 
-##Massa, mas como eu faço para rodar?
+## Massa, mas como eu faço para rodar?
 
 Simples bro, abra a solution no Visual Studio e mande executar.
 
-##Tentei rodar o projeto e não deu certo,e agora?
+## Tentei rodar o projeto e não deu certo,e agora?
 
 Caso tenha alguma dúvida, você pode mandar um e-mail para `golfetto.guilherme@gmail.com` com sua dúvida que eu vou tentar te ajudar.
 
-##Me explica esse projeto ai rapaz?
+## Me explica esse projeto ai rapaz?
 
 Calma amigo, então: Todas as possiveis escolhas herdam da classe Escolha (dãh).
 
