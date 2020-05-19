@@ -1,0 +1,12 @@
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/bin/Debug/netcoreapp3.1/JogoJoquenPo.deps.json
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/bin/Debug/netcoreapp3.1/JogoJoquenPo.runtimeconfig.json
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/bin/Debug/netcoreapp3.1/JogoJoquenPo.runtimeconfig.dev.json
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/bin/Debug/netcoreapp3.1/JogoJoquenPo.dll
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/bin/Debug/netcoreapp3.1/JogoJoquenPo.pdb
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.csprojAssemblyReference.cache
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.csproj.CoreCompileInputs.cache
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.AssemblyInfoInputs.cache
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.AssemblyInfo.cs
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.dll
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.pdb
+/Users/guilhermegolfetto/Projects/JogoJoquenPo/JogoJoquenPo/obj/Debug/netcoreapp3.1/JogoJoquenPo.genruntimeconfig.cache
